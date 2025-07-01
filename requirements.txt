@@ -189,3 +189,5 @@ zope-interface==5.2.0
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+psycopg2-binary
+#Add psycopg2-binary to fix deployment error
